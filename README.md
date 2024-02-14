@@ -2,8 +2,8 @@
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong> frontend developer</strong>.</p>&nbsp;
 
-
- 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=D1MELLO&show_icons=true&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D1MELLO&theme=synthwave)
  &nbsp;
  &nbsp;
 
