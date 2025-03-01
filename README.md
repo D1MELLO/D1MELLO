@@ -9,7 +9,7 @@
 
 <br/>
 
-  - 🔭 I’m currently working on **a Web project**
+  - 🔭 I’m currently working on **a Mobile project**
   - 🌱 I’m currently learning **Java and Kotlin**
 
 <h3 align="left">Connect with me:</h3>
@@ -52,11 +52,11 @@
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=java,kotlin,python,spring,maven"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=java,kotlin,python"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=bootstrap,html,css,js,figma"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=bootstrap,html,css,figma"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Mobile:</td>
@@ -80,22 +80,22 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,idea"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,idea,androidstudio"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=bash"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=bash,spring,maven,gradle"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu,mint,linux"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=windows,linux"/></td>
     </tr>
 </table>
 
 ------
 
 [D1MELLO](https://github.com/D1MELLO)
-27/11/2024
+01/03/2025
 
 
 ```
