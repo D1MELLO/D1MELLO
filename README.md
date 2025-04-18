@@ -7,15 +7,14 @@ src="https://pa1.aminoapps.com/6444/c8aca74ed68b37f67931944dbfd822f15e26198d_128
 </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=00FF00&width=500&height=70&duration=4000&lines=Hello+World!+🌎;+I'm+Sérgio+de+Melo!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Ubuntu+Mono&size=35&center=true&vCenter=true&color=00FF00&width=500&height=70&duration=4000&lines=Hello+World!+🌎;+I'm+Sérgio+de+Melo!;Olá+Mundo!+🌎;Sou+Sérgio+de+Melo!" />
 </h1>
 
-<h3 align="center">Software developer from Brazil 🇧🇷</h3>
+<h3 align="center">A Software developer from Brazil 🇧🇷</h3>
 
 I am passionate about technology in general. I am currently in the 3rd semester of the Systems Analysis and Development course at FIAP, but I already have a background in software development since my technical high school, where I graduated as an IT Technician. Always motivated to learn and contribute, I am open to challenges and opportunities to grow professionally. 
 
-Shall we connect?
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&pause=1000&color=FFFFFF&width=435&lines=Shall+we+connect%3F;Vamos+nos+conectar%3F)](https://git.io/typing-svg)
 
 
 
@@ -38,7 +37,10 @@ Shall we connect?
 
 <!-- Body -->
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">
+  
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Languages+and+Tools%3A;Linguagens+e+Feramentas%3A)](https://git.io/typing-svg)
+</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -86,8 +88,11 @@ Shall we connect?
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
 </div>
 
-<h3 align="center">Activity:</h3>
-
+<h3 align="center">
+  
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Activity%3A;Atividade%3A)](https://git.io/typing-svg)
+   
+</h3>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=D1MELLO&bg_color=000000&color=00ff00&line=00ff00&point=00ff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -98,12 +103,12 @@ Shall we connect?
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=D1MELLO&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="D1MELLO"/>
   </a>
 </div>
-<p align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; align-items: center;">
   <a href="https://github.com/D1MELLO">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=D1MELLO&&theme=vision-friendly-dark" alt="D1MELLO" />
   </a>
-</p>
-
+  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTg3YnNsMWdraDAxMzJ3YXl3dmR0Z3MxYnAyZTQ1aWkyZ2VldmJsYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ya63hjCGVaHjmXzWy0/giphy.gif" />
+</div>
 
 
 <div align="center">
@@ -117,7 +122,11 @@ Shall we connect?
 
 <!-- Footer -->
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">
+  
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Conect+with+me%3A;Conecte-se+comigo%3A)](https://git.io/typing-svg)
+   
+</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/srdimello/?locale=en_US" target="_blank">
