@@ -124,7 +124,7 @@ I am passionate about technology in general. I am currently in the 3rd semester 
 
 <h3 align="center">
   
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Conect+with+me%3A;Conecte-se+comigo%3A)](https://git.io/typing-svg)
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Connect+with+me%3A;Conecte-se+comigo%3A)](https://git.io/typing-svg)
    
 </h3>
 
